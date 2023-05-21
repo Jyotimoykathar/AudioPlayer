@@ -15,6 +15,9 @@ audio {
 
 /* media queries */
 @media (max-width: 34em) {
+  body {
+    overflow-x: hidden;
+  }
   .content {
     width: 20rem;
   }
