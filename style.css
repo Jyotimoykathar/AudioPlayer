@@ -12,3 +12,10 @@ audio {
   padding: 10px;
   background: #26489fb4;
 }
+
+/* media queries */
+@media (max-width: 34em) {
+  .content {
+    width: 20rem;
+  }
+}
