@@ -1,0 +1,14 @@
+.content {
+  margin: 0 auto;
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+audio {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px;
+  background: #26489fb4;
+}
